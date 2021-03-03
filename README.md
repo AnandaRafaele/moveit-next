@@ -7,7 +7,7 @@
 ## Sumário
 
 - [O que é](#o-que-é)
-- [Ferramentas](#tecnologias-utilizadas)
+- [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [Rodando localmente](#rodando-localmente)
 - [Acessar em produção](#acessar-em-produção)
 - [Layout](#layout)
