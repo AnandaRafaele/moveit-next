@@ -32,6 +32,16 @@ Os pontos recebidos ao completar os desafios são acumulados até que o usuário
 
 [... ao decorrer da implementação de mais funcionalidade, serão adicionadas informações atualizadas do funcionamento da aplicação]
 
+## Tecnologias Utilizadas
+
+As tecnologias utilizadas na elaboração do projeto foram:
+
+- Next JS;
+- Styled components;
+- Typescript;
+- Context API;
+- JS Cookie;
+
 ## Rodando localmente
 
 ```bash
