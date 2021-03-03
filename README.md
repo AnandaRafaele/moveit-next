@@ -9,9 +9,10 @@
 - [O que é](#o-que-é)
 - [Ferramentas](#tecnologias-utilizadas)
 - [Rodando localmente](#rodando-localmente)
-- [Acessar em produção](#moderação)
-- [Denúncias](#denúncias-e-sugestões)
-- [Por que Discord?](#por-que-discord)
+- [Acessar em produção](#acessar-em-produção)
+- [Layout](#layout)
+- [Quer contribuir?](#quer-contribuir)
+- [Sugestões](#sugestões)
 - [Sobre mim...](#rocketseat)
 
 ## O que é
