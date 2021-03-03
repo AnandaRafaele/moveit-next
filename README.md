@@ -33,7 +33,9 @@ Os pontos recebidos ao completar os desafios são acumulados até que o usuário
 
 ## Rodando localmente
 
+```bash
 git clone https://github.com/AnandaRafaele/moveit-next.git
 $ cd moveit-next
 $ yarn install
 $ yarn dev
+```
