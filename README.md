@@ -54,3 +54,7 @@ $ yarn dev
 ## Acessar em produção
 
 Para acessar a aplicação em produção acesse <a target="_blank" href="https://moveit-next-gamma-liard.vercel.app/">clique aqui</a>
+
+## Layout
+
+O layout da aplicação foi criado no figma. Para acessar o layout <a target="_blank" href="https://www.figma.com/file/vRbW1u0CEZuG2zE6bU5qLg/Move.it-2.0?node-id=160%3A2761">clique aqui</a>
