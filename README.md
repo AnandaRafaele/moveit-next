@@ -58,3 +58,7 @@ Para acessar a aplicação em produção acesse <a target="_blank" href="https:/
 ## Layout
 
 O layout da aplicação foi criado no figma. Para acessar o layout <a target="_blank" href="https://www.figma.com/file/vRbW1u0CEZuG2zE6bU5qLg/Move.it-2.0?node-id=160%3A2761">clique aqui</a>
+
+## Quer contribuir?
+
+A aplicação é completamente aberta e se caso você queira contruibuir na melhoria da aplicação, basta criar um fork do repositório, fazer a mudanças que deseja e criar uma PR (pull request), das mudanças que foram feitas, para este repositório.
