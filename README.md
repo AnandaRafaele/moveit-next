@@ -53,4 +53,4 @@ $ yarn dev
 
 ## Acessar em produção
 
-Para acessar a aplicação em produção acesse <a href="https://moveit-next-gamma-liard.vercel.app/">clique aqui</a>
+Para acessar a aplicação em produção acesse <a href="https://moveit-next-gamma-liard.vercel.app/" target="_blank">clique aqui</a>
