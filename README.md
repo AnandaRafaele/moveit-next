@@ -7,8 +7,8 @@
 ## Sumário
 
 - [O que é](#o-que-é)
-- [Ferramentas](#como-participar)
-- [Rodando localmente](#comportamento)
+- [Ferramentas](#tecnologias-utilizadas)
+- [Rodando localmente](#rodando-localmente)
 - [Acessar em produção](#moderação)
 - [Denúncias](#denúncias-e-sugestões)
 - [Por que Discord?](#por-que-discord)
@@ -30,3 +30,10 @@ Cada desafio vale uma determinada quantidade de pontos dos quais são recebidos 
 Os pontos recebidos ao completar os desafios são acumulados até que o usuário consiga juntar a quantidade de pontos necessárias para subir de nível.
 
 [... ao decorrer da implementação de mais funcionalidade, serão adicionadas informações atualizadas do funcionamento da aplicação]
+
+## Rodando localmente
+
+git clone https://github.com/AnandaRafaele/moveit-next.git
+$ cd moveit-next
+$ yarn install
+$ yarn dev
