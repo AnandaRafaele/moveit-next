@@ -13,7 +13,7 @@
 - [Layout](#layout)
 - [Quer contribuir?](#quer-contribuir)
 - [Sugestões](#sugestões)
-- [Sobre mim...](#rocketseat)
+- [Sobre mim...](#sobre-mim)
 
 ## O que é
 
@@ -66,3 +66,15 @@ A aplicação é completamente aberta e se caso você queira contruibuir na melh
 ## Sugestões
 
 Se você tem sugestões, porém não sabe ou não quer ter o trabalho de editar o código, basta entrar em contato comigo por uma de minhas redes sociais informando as sugestões de melhorias que você gostaria de ver na aplicação.
+
+## Sobre mim...
+
+Sou Ananda Rafaele e já estou no mercado de tecnologia há 5 anos. Já trabalhei como backend, porém atualmente estou trabalhando com mais foco na parte de front-end.
+
+Para sabe mais sobre mim e meus trabalhos, acesse minhas redes sociais:
+
+- <a target="_blank" href="https://github.com/AnandaRafaele">Github</a>
+- <a target="_blank" href="https://www.linkedin.com/in/ananda-rafaele-72ba55150/">Linkedin</a>
+- <a target="_blank" href="https://www.instagram.com/nanda_rafaele/">Instagram</a>
+
+<p>Sou muito simpática hahaha qualquer coisa que queira falar, entra em minhas redes sociais que eu respondo rapidinho (esta é uma das minhas virtudes) kkkk</p>
