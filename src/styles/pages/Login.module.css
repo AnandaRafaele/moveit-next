@@ -1,0 +1,82 @@
+.loginContainer {
+  height: 100vh;
+  width: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  color: #fff;
+  background: #5965e0;
+}
+
+.loginContainer aside {
+  flex: 1;
+}
+
+.loginContainer section {
+  flex: 1;
+
+  height: 50%;
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-around;
+}
+
+.loginContainer section h1 {
+  font: 600 2.25rem "Inter", sans-serif;
+  margin-bottom: -15px;
+}
+
+.loginContainer section div {
+  width: 24rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.loginContainer section p {
+  font: 500 1.25rem "Inter", sans-serif;
+  color: var(--blue-text);
+  width: 18rem;
+}
+
+.loginContainer section img {
+  height: 4.75rem;
+}
+
+.loginContainer section input {
+  height: 5rem;
+  width: 19rem;
+
+  padding-left: 2.2rem;
+  border: none;
+  outline: none;
+
+  color: var(--blue-text);
+  font: 400 1.25rem "Inter", sans-serif;
+
+  background: linear-gradient(90deg, #4953b8 0%, rgba(73, 83, 184, 0.2) 100%);
+  border-radius: 5px 0px 0px 5px;
+}
+
+.loginContainer section input::placeholder {
+  color: var(--blue-text);
+  font: 400 1.25rem "Inter", sans-serif;
+}
+
+.loginContainer section button {
+  height: 5rem;
+  width: 5rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border: none;
+  outline: none;
+  border-radius: 0px 5px 5px 0px;
+}
