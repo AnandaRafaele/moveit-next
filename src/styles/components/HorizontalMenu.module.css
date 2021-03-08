@@ -1,0 +1,36 @@
+.horizontalMenuContainer {
+  width: 7rem;
+  height: 100vh;
+
+  position: absolute;
+  left: 0;
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+
+  background: linear-gradient(180deg, #ffffff 0%, rgba(255, 255, 255, 0) 100%);
+  filter: drop-shadow(0px 0px 60px rgba(0, 0, 0, 0.05));
+}
+
+.horizontalMenuContainer > img {
+  position: absolute;
+  top: 30px;
+  transform: translateX(50%);
+}
+
+.horizontalMenuContainer > div {
+  display: flex;
+  flex-direction: column;
+}
+
+.horizontalMenuContainer > div button {
+  background: transparent;
+  border: none;
+  outline: none;
+}
+
+.horizontalMenuContainer > div button img {
+  margin: 1.25rem 0rem;
+}

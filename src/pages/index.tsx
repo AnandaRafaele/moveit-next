@@ -47,7 +47,7 @@ export default function Home(props: LoginProps) {
               style={
                 username ? { background: "#4CD62B" } : { background: "#4953b8" }
               }
-              onClick={() => router.push("/Home")}
+              onClick={() => router.push("/home")}
             >
               <img src="/icons/arrow-right.svg" width="24" height="24" />
             </button>

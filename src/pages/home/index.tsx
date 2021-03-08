@@ -8,10 +8,11 @@ import { Profile } from "../../components/Profile";
 import { ChallengeBox } from "../../components/ChallengeBox";
 import { CountdownProvider } from "../../contexts/CountdownContext";
 
-import styles from "../../styles/pages/Home/Home.module.css";
+import styles from "../../styles/pages/home/Home.module.css";
 
 import React from "react";
 import { ChallengesProvider } from "../../contexts/ChallengesContext";
+import { HorizontalMenu } from "../../components/HorizontalMenu";
 
 interface HomeProps {
   level: number;
@@ -26,6 +27,7 @@ export default function Home(props: HomeProps) {
       currentExperience={props.currentExperience}
       challengesCompleted={props.challengesCompleted}
     >
+      <HorizontalMenu />
       <div className={styles.container}>
         <Head>
           <title>Início | Move it</title>
