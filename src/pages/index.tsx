@@ -1,7 +1,7 @@
 import Head from "next/head";
 
 import styles from "../styles/pages/Login.module.css";
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import { UserProvider } from "../contexts/UserContext";
 import { useRouter } from "next/router";
 interface LoginProps {
@@ -10,6 +10,9 @@ interface LoginProps {
 
 export default function Home(props: LoginProps) {
   const router = useRouter();
+
+  //PROVISÓRIO
+  const [username, setUsername] = useState("");
 
   useEffect(() => {
     console.log(router);
@@ -34,10 +37,16 @@ export default function Home(props: LoginProps) {
             <p>Faça login com seu Github para começar</p>
           </div>
           <div>
-            <input placeholder="Digite seu username" />
+            <input
+              placeholder="Digite seu username"
+              value={username}
+              onChange={(e) => setUsername(e.target.value)}
+            />
 
             <button
-              style={{ background: "#4953b8" }}
+              style={
+                username ? { background: "#4CD62B" } : { background: "#4953b8" }
+              }
               onClick={() => router.push("/Home")}
             >
               <img src="/icons/arrow-right.svg" width="24" height="24" />
